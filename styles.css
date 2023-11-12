@@ -1,0 +1,38 @@
+/*
+ * Custom CSS
+ */
+
+:root {
+  --bs-body-bg: var(--bs-gray-100);
+}
+
+.nav_custom{
+    background: #D00000;
+    height: 75px;
+}
+.navbar-collapse{
+    background: rgba(208,0,0,0.9);
+    padding: 10px 10px;
+}
+.btn-primary{
+    background: #D00000 !important;
+    border: none !important;
+    padding: 14px 40px !important;
+    border-radius: 23px !important;
+}
+.btn-secondary{
+    border: none !important;
+    padding: 14px 40px !important;
+    border-radius: 23px !important;
+}
+
+.btn-begin{
+    min-width: 227px;
+}
+
+#fon{
+    width: 100%;
+    border-radius: 10px;
+}
+
+
